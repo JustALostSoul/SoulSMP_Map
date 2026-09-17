@@ -56,6 +56,19 @@ UnminedCustomMarkers = {
         },
 
 	{
+            x: -2733,
+            z: 1269,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Witch Farm",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        },
+
+	{
             x: 1150,
             z: 260,
             image: "custom.pin.png",
